@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adnan Rahman
 - 👀 I’m a Full-Stack Software Engineer
-- 🌱 I’m specialized in ReactJS library and Spring Boot Framework and AWS 
+- 🌱 I’m specialized in JAVA, Python, JavaScirpt and AWS Ecosystem
 - 💞️ I’m looking to collaborate on all kind of projects and also in startup
 - 📫 Reach me out via my email which include in my github profile or in my website https://www.fullstackapp.io
